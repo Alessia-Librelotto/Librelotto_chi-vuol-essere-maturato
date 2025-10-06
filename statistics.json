@@ -1,0 +1,14 @@
+[
+  {
+    "playerName": "ale",
+    "correctAnswers": 2,
+    "used5050": false,
+    "usedAudience": false
+  },
+  {
+    "playerName": "sid",
+    "correctAnswers": 5,
+    "used5050": true,
+    "usedAudience": true
+  }
+]
